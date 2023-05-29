@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><simulation>
+    <simtype/>
+    <title>wator Simulation 1</title>
+    <author>Our team</author>
+    <description>A really cool simulation</description>
+    <grid>
+        <width>10</width>
+        <height>10</height>
+        <cells>0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 1 0 0 0 0 1 1 0 0 
+0 0 1 0 0 0 0 0 1 0 
+0 0 0 0 2 0 2 0 0 2 
+0 2 0 0 0 0 2 0 0 2 
+0 2 2 0 2 0 2 0 0 0 
+0 0 1 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 
+</cells>
+    </grid>
+    <parameters>
+    <fishFertility>8</fishFertility><sharkEnergyBonus>3</sharkEnergyBonus><sharkFertility>8</sharkFertility><sharkEnergy>5</sharkEnergy></parameters>
+</simulation>
